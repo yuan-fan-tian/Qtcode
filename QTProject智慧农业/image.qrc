@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>back_hum.jpg</file>
+        <file>back_temp.jpg</file>
+        <file>back.jpg</file>
+        <file>background.jpg</file>
+        <file>hum.jpg</file>
+        <file>temp.jpg</file>
+        <file>temp_cool.jpg</file>
+        <file>temp_good.jpg</file>
+        <file>temp_hot.jpg</file>
+        <file>girl1.png</file>
+        <file>regeist.jpg</file>
+    </qresource>
+</RCC>
